@@ -1,0 +1,6 @@
+10 11月 2018 12:10:43,781 INFO  ~ Starting C:\Users\11455\playApp\.
+10 11月 2018 12:10:44,247 INFO  ~ Module docviewer is available (D:\soft_work\play-1.5.1\modules\docviewer)
+10 11月 2018 12:10:45,145 WARN  ~ You're running Play! in DEV mode
+10 11月 2018 12:10:46,760 INFO  ~ HikariPool-1 - Starting...
+10 11月 2018 12:10:46,784 INFO  ~ HikariPool-1 - Start completed.
+10 11月 2018 12:10:46,800 INFO  ~ Connected to jdbc:h2:mem:play for default
