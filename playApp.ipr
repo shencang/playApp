@@ -21,6 +21,51 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="libraryTable">
+    <library name="api">
+      <CLASSES />
+      <JAVADOC>
+        <root url="file://D:/soft_work/play-1.5.1/documentation/api" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://D:/soft_work/play-1.5.1/framework/src" />
+        <root url="file://D:/soft_work/play-1.5.1/framework/test-src" />
+        <root url="file://D:/soft_work/play-1.5.1/modules/crud/app" />
+        <root url="file://D:/soft_work/play-1.5.1/modules/docviewer/app" />
+        <root url="file://D:/soft_work/play-1.5.1/modules/docviewer/src" />
+        <root url="file://D:/soft_work/play-1.5.1/modules/grizzly/src" />
+        <root url="file://D:/soft_work/play-1.5.1/modules/secure/app" />
+        <root url="file://D:/soft_work/play-1.5.1/modules/testrunner/app" />
+        <root url="file://D:/soft_work/play-1.5.1/modules/testrunner/src" />
+        <root url="file://D:/soft_work/play-1.5.1/resources/application-skel/app" />
+        <root url="file://D:/soft_work/play-1.5.1/resources/application-skel/test" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/booking/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/booking/test" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/chat/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/customJars/example/src/main/java" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/customJars/example/src/test/java" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/facebook-oauth2/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/facebook-oauth2/test" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/forum/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/forum/test" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/java8Support/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/java8Support/test" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/jobboard/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/jobboard/test" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/just-test-cases/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/just-test-cases/test" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/modules/testModule/src" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/multi-db/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/multi-db/test" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/nonstatic-app/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/nonstatic-app/test" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/twitter-oauth/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/validation/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/validation/test" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/yabe/app" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/yabe/test" />
+        <root url="file://D:/soft_work/play-1.5.1/samples-and-tests/zencontact/app" />
+      </SOURCES>
+    </library>
     <library name="lib">
       <CLASSES>
         <root url="file://D:/soft_work/play-1.5.1/framework/lib" />
