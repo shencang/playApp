@@ -1,8 +1,8 @@
 package models;
-import play.db.jpa.Model;
+        import play.db.jpa.Model;
 
-import java.util.*;
-import javax.persistence.Entity;
+        import java.util.*;
+        import javax.persistence.Entity;
 
 @Entity
 public class User extends Model {
