@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
     <file url="PROJECT" charset="UTF-8" />
   </component>
   <component name="InspectionProjectProfileManager">
@@ -73,6 +73,13 @@
       <JAVADOC />
       <SOURCES />
       <jarDirectory url="file://D:/soft_work/play-1.5.1/framework/lib" recursive="false" />
+    </library>
+    <library name="play-testrunner">
+      <CLASSES>
+        <root url="jar://D:/soft_work/play-1.5.1/modules/testrunner/lib/play-testrunner.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
   </component>
 </project>
