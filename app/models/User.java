@@ -1,13 +1,24 @@
 package models;
+        import play.data.validation.*;
         import play.db.jpa.Model;
 
         import java.util.*;
+
         import javax.persistence.Entity;
 
 @Entity
 public class User extends Model {
+    @Email
+    @Required
     public String email;
+
+    @Required
+    @Password
+    @MinSize(8)
     public String passawd;
+
+    @Required
+    @MaxSize(64)
     public String fullname;
     public boolean isAdmin;
 
@@ -15,5 +26,11 @@ public class User extends Model {
         this.email=email;
         this.passawd= passawd;
         this.fullname=fullname;
+    }
+
+
+    @Override
+    public String toString() {
+        return fullname;
     }
 }

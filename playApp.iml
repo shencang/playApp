@@ -6,10 +6,13 @@
       <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
     </content>
+    <content url="file://D:/soft_work/play-1.5.1/modules/crud">
+      <sourceFolder url="file://D:/soft_work/play-1.5.1/modules/crud/app" isTestSource="false" />
+    </content>
     <content url="file://D:/soft_work/play-1.5.1/modules/docviewer">
       <sourceFolder url="file://D:/soft_work/play-1.5.1/modules/docviewer/app" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="10 (1)" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="10" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module-library">
@@ -47,7 +50,6 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="library" name="lib" level="project" />
-    <orderEntry type="library" name="play-testrunner" level="project" />
+    <orderEntry type="library" name="play_http_help_lib" level="project" />
   </component>
 </module>
