@@ -1,38 +1,10 @@
-03 12月 2018 22:17:23,333 INFO  ~ Starting C:\Users\11455\playApp\.
-03 12月 2018 22:17:23,795 INFO  ~ Module docviewer is available (D:\soft_work\play-1.5.1\modules\docviewer)
-03 12月 2018 22:17:23,796 INFO  ~ Module crud is available (D:\soft_work\play-1.5.1\modules\crud)
-03 12月 2018 22:17:24,811 WARN  ~ You're running Play! in DEV mode
-03 12月 2018 22:17:25,535 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
-03 12月 2018 22:17:37,287 INFO  ~ HikariPool-1 - Starting...
-03 12月 2018 22:17:37,307 INFO  ~ HikariPool-1 - Start completed.
-03 12月 2018 22:17:37,321 INFO  ~ Connected to jdbc:h2:mem:play for default
-03 12月 2018 22:17:38,429 INFO  ~ Application 'playApp' is now started !
-03 12月 2018 22:17:38,963 ERROR ~ 
-
-@7a5g9hifj
-Internal Server Error (500) for request GET /blog
-
-No route found (In /app/views/Blog/index.html around line 13)
-No route able to invoke action Blog.form was found.
-
-play.exceptions.NoRouteFoundException: No route found
-	at play.templates.BaseTemplate.throwException(BaseTemplate.java:79)
-	at play.templates.GroovyTemplate.internalRender(GroovyTemplate.java:292)
-	at play.templates.Template.render(Template.java:28)
-	at play.templates.GroovyTemplate.render(GroovyTemplate.java:230)
-	at play.mvc.results.RenderTemplate.<init>(RenderTemplate.java:28)
-	at play.mvc.Controller.renderTemplate(Controller.java:804)
-	at play.mvc.Controller.renderTemplate(Controller.java:782)
-	at play.mvc.Controller.render(Controller.java:843)
-	at controllers.Blog.index(Blog.java:12)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at play.mvc.ActionInvoker.invokeWithContinuation(ActionInvoker.java:543)
-	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:480)
-	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:474)
-	at play.mvc.ActionInvoker.invokeControllerMethod(ActionInvoker.java:441)
-	at play.mvc.ActionInvoker.invoke(ActionInvoker.java:164)
-	at Invocation.HTTP Request(Play!)
-03 12月 2018 22:18:41,957 INFO  ~ Restart: 1 classes changed (and HotSwap is not enabled)
-03 12月 2018 22:19:46,686 INFO  ~ Restart: 1 classes changed (and HotSwap is not enabled)
+04 12月 2018 22:16:06,361 INFO  ~ Starting C:\Users\11455\playApp\.
+04 12月 2018 22:16:06,856 INFO  ~ Module docviewer is available (D:\soft_work\play-1.5.1\modules\docviewer)
+04 12月 2018 22:16:06,857 INFO  ~ Module crud is available (D:\soft_work\play-1.5.1\modules\crud)
+04 12月 2018 22:16:06,858 INFO  ~ Module secure is available (D:\soft_work\play-1.5.1\modules\secure)
+04 12月 2018 22:16:07,850 WARN  ~ You're running Play! in DEV mode
+04 12月 2018 22:16:08,780 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+04 12月 2018 22:16:13,187 INFO  ~ HikariPool-1 - Starting...
+04 12月 2018 22:16:13,215 INFO  ~ HikariPool-1 - Start completed.
+04 12月 2018 22:16:13,233 INFO  ~ Connected to jdbc:h2:mem:play for default
+04 12月 2018 22:16:14,541 INFO  ~ Application 'playApp' is now started !

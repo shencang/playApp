@@ -12,7 +12,17 @@ public class Blog extends Controller {
         render(posts);
     }
 
-    public static void save(){
+    public static void save(String title ,String content ){
+        Post post = new Post(title,content);
+
+
+        validation.valid(post);
+        if (validation.hasErrors()){
+            render("@form",post);
+        }
+
+        post.save();
+        index();
 
     }
     public static void form(){

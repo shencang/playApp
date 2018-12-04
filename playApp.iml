@@ -12,6 +12,9 @@
     <content url="file://D:/soft_work/play-1.5.1/modules/docviewer">
       <sourceFolder url="file://D:/soft_work/play-1.5.1/modules/docviewer/app" isTestSource="false" />
     </content>
+    <content url="file://D:/soft_work/play-1.5.1/modules/secure">
+      <sourceFolder url="file://D:/soft_work/play-1.5.1/modules/secure/app" isTestSource="false" />
+    </content>
     <orderEntry type="jdk" jdkName="10" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
