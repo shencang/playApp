@@ -1,10 +1,6 @@
-04 12月 2018 22:16:06,361 INFO  ~ Starting C:\Users\11455\playApp\.
-04 12月 2018 22:16:06,856 INFO  ~ Module docviewer is available (D:\soft_work\play-1.5.1\modules\docviewer)
-04 12月 2018 22:16:06,857 INFO  ~ Module crud is available (D:\soft_work\play-1.5.1\modules\crud)
-04 12月 2018 22:16:06,858 INFO  ~ Module secure is available (D:\soft_work\play-1.5.1\modules\secure)
-04 12月 2018 22:16:07,850 WARN  ~ You're running Play! in DEV mode
-04 12月 2018 22:16:08,780 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
-04 12月 2018 22:16:13,187 INFO  ~ HikariPool-1 - Starting...
-04 12月 2018 22:16:13,215 INFO  ~ HikariPool-1 - Start completed.
-04 12月 2018 22:16:13,233 INFO  ~ Connected to jdbc:h2:mem:play for default
-04 12月 2018 22:16:14,541 INFO  ~ Application 'playApp' is now started !
+08 12月 2018 09:03:22,177 INFO  ~ Starting C:\Users\11455\playApp\.
+08 12月 2018 09:03:22,819 INFO  ~ Module docviewer is available (D:\soft_work\play-1.5.1\modules\docviewer)
+08 12月 2018 09:03:22,821 INFO  ~ Module crud is available (D:\soft_work\play-1.5.1\modules\crud)
+08 12月 2018 09:03:22,824 INFO  ~ Module secure is available (D:\soft_work\play-1.5.1\modules\secure)
+08 12月 2018 09:03:24,219 WARN  ~ You're running Play! in DEV mode
+08 12月 2018 09:03:25,756 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...

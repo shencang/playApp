@@ -11,10 +11,11 @@ import java.util.*;
 public class Application extends Controller {
 
     public static void index() {
-        new User("123@qq.com","123456","adbdef").save();
-        User bob = User.find("byEmail","123@qq.com").first();
-        System.out.println(bob.email);
-        System.out.println(bob.fullname);
+        User u1 =new User("123@qq.com","123456","adbdef").save();
+        User u2 =new User("1@qq.com","12345678","jinhaojinhao").save();
+
+        u1.isAdmin=false;
+        u2.isAdmin=true;
         render();
     }
     public static void hello(){
